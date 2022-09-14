@@ -13,6 +13,6 @@ Console.WriteLine();
 Console.WriteLine("Массив: ");
     for (int j = 0; j < 8; j++)
     {
-       Console.Write(Array[j] + " ");
+       Console.Write(Array[j] + ", ");
     }
         
